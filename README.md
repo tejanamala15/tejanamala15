@@ -27,8 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://www.linkedin.com/in/tejanamala15" target="blank"><img align="center" src="https://icons8.com/icon/80451/linkedin-circled" alt="http://www.linkedin.com/in/tejanamala15" height="30" width="40" /></a>
-<a href="mailto:tejanamala15.com" target="blank"><img align="center" src="https://icons8.com/icon/42916/gmail-logo" alt="teja" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/tejanamala15" target="blank"><i class="fa-brands fa-linkedin"></i></a>
+<a href="mailto:tejanamala15.com" target="blank"><i class="fa-regular fa-envelope"></i></a>
+
 
 
 
