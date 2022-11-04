@@ -27,8 +27,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="http://www.linkedin.com/in/tejanamala15"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Teja | LinkedIn" width="21px"/></a>
-<a href="mailto:tejanamala15.com"><img align="left" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="http://www.linkedin.com/in/tejanamala15"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Teja | LinkedIn" height="30px" width="30px"/></a>
+<a href="mailto:tejanamala15.com"><img align="left" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="Yu Shi | Instagram" height="30px" width="30px"/></a>
 <p align="left">
 
 
