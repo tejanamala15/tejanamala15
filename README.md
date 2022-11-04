@@ -14,7 +14,7 @@
 
 ### Languages and Tools:<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="150" height="150" align="right" />
 <code><img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png" alt="java" /></code>
-<code><img src="https://icons8.com/icon/13441/python" alt="Python" /></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png?20220821155029" alt="Python" /></code>
 <code><img src="https://img.icons8.com/color/30/000000/javascript.png" alt="javascript" /></code>
 <code><img src="https://icons8.com/icon/62452/firebase" alt="Firebase" /></code>
 <code><img  src="https://img.icons8.com/color/30/000000/html-5--v1.png"/></code>
