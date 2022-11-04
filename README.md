@@ -16,12 +16,12 @@
 <code><img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png" alt="java" /></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png?20220821155029" height="30" width="35" alt="Python" /></code>
 <code><img src="https://img.icons8.com/color/30/000000/javascript.png" alt="javascript" /></code>
-<code><img src="https://icons8.com/icon/62452/firebase" alt="Firebase" /></code>
+<code><img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" height="30" width="35" alt="Firebase" /></code>
 <code><img  src="https://img.icons8.com/color/30/000000/html-5--v1.png"/></code>
 <code><img src="https://img.icons8.com/color/30/000000/css3.png"/></code>
 <code><img src="https://img.icons8.com/officel/30/000000/react.png"/></code>
-<code><img src="https://icons8.com/icon/20906/git" alt="Git" /></code>
-<code><img src="https://icons8.com/icon/ldAV1F3sx1VI/sql" alt="SQL" /></code>
+<code><img src="https://git-scm.com/images/logos/logomark-orange@2x.png" height="30" width="35" alt="Git" /></code>
+<code><img src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png" height="30" width="35" alt="SQL" /></code>
 
 
 
