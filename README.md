@@ -20,8 +20,8 @@
 <code><img  src="https://img.icons8.com/color/30/000000/html-5--v1.png"/></code>
 <code><img src="https://img.icons8.com/color/30/000000/css3.png"/></code>
 <code><img src="https://img.icons8.com/officel/30/000000/react.png"/></code>
-<code><img src="https://git-scm.com/images/logos/logomark-orange@2x.png" height="30" width="35" alt="Git" /></code>
-<code><img src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png" height="30" width="45" alt="SQL" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="35" alt="Git" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="45" alt="SQL" /></code>
 
 
 
