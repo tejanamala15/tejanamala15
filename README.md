@@ -29,6 +29,7 @@
 
 <a href="http://www.linkedin.com/in/tejanamala15"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Teja | LinkedIn" height="25px" width="30px"/></a>
 <a href="mailto:tejanamala15.com"><img align="left" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="Yu Shi | Instagram" height="24px" width="30px"/></a>
+<a href="https://www.instagram.com/tejar3ddy/"><img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Ffree-png-ew-instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-png-image-wit--826480969113482586%2F&psig=AOvVaw3cqCDp82bhMUieFRgXnWDs&ust=1679911673765000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNirhOes-f0CFQAAAAAdAAAAABAE" alt="Yu Shi | Instagram" height="24px" width="30px"/></a>
 <p align="left">
 
 
