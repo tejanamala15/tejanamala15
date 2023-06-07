@@ -27,11 +27,10 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="http://www.linkedin.com/in/tejanamala15"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Teja | LinkedIn" height="25px" width="30px"/></a>
+
 <a href="mailto:tejanamala15.com"><img align="left" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="Teja | Mail" height="24px" width="30px"/></a>
 <p align="left">
-<a href="https://twitter.com/tejanamala15"><img align="left" src="https://www.flaticon.com/free-icon/twitter_733579?term=twitter&page=1&position=1&origin=tag&related_id=733579" alt="Teja | Twitter" height="24px" width="30px"/></a> 
-<p align="left">
+
 
 
 
