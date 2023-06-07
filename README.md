@@ -30,6 +30,9 @@
 <a href="http://www.linkedin.com/in/tejanamala15"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Teja | LinkedIn" height="25px" width="30px"/></a>
 <a href="mailto:tejanamala15.com"><img align="left" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="Teja | Mail" height="24px" width="30px"/></a>
 <p align="left">
+<a href="https://twitter.com/tejanamala15"><img align="left" src="![twitter](https://github.com/tejanamala15/slotmachine/assets/116561688/85a97fe8-dfc1-4c39-ba7a-5c65eb939b89)
+" alt="Teja | Twitter" height="24px" width="30px"/></a>
+<p align="left">
 
 
 
