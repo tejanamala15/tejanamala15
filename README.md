@@ -6,7 +6,7 @@
 </div>
 
 
-- ✍ I'm a pre final year college student
+- ✍ I'm a final year college student
 - :rocket: I’m currently working on React JS & Java. 
 - 💌 If you're interested in collaborating on a fun project or just want to chat, please  <br> reach me on my social media provided below. I'd love to hear from you!
 - :dog: Fun fact: I love friends (the TV show and yes, Chandler is the best) and dogs.
