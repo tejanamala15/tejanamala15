@@ -7,7 +7,7 @@
 
 
 - ✍ I'm a final year college student
-- :rocket: I’m currently working on React JS & Java. 
+- :rocket: I’m currently working on Spring Boot. 
 - 💌 If you're interested in collaborating on a fun project or just want to chat, please  <br> reach me on my social media provided below. I'd love to hear from you!
 - :dog: Fun fact: I love friends (the TV show and yes, Chandler is the best) and dogs.
 
